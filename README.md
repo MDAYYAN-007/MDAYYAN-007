@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm MDAYYAN-007</h1>
 
 <h3 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/demo/?weight=500&color=000000&center=true&lines=I'm+a+FULL+STACK+DEVELOPER" />
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=000000&center=true&width=435&lines=I'm+a+FULL+STACK+DEVELOPER" alt="Typing SVG" /></a>
 </h3>
 
 - 🔭 I’m currently learning **Data Structures And Algorithms**
