@@ -16,8 +16,8 @@
 
 <h3 align="left">Connect me on:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mohammed-dayyan-6718852aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin-profile" height="40" width="50" /></a>
-<a href="https://instagram.com/mddayyan007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram-profile" height="40" width="50" /></a>
+<a href="https://www.linkedin.com/in/mohammed-dayyan-6718852aa" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin-profile" height="40" width="50" /></a>
+<a href="https://instagram.com/mddayyan007" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram-profile" height="40" width="50" /></a>
 </p>
 
 <hr>
