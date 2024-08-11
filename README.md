@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently learning **Data Structures And Algorithms**
 
-- 🍀 I’m currently working on **Real Time Web App**
+- 🍀 I’m currently working on **Real Time Web Apps**
 
 - 👯 I’m looking to collaborate on **Web Applications**
 
