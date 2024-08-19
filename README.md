@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=000000&center=true&width=435&lines=I'm+a+FULL+STACK+DEVELOPER" alt="Typing SVG" />
 </h3>
 
-- 🔭 I’m currently learning **Data Structures And Algorithms**
-
-- 🍀 I’m currently working on **Real Time Web Apps**
-
 - 👯 I’m looking to collaborate on **Web Applications**
 
 - 📫 You can reach me on **mdayyanofficial@gmail.com**
